@@ -5,3 +5,5 @@ new a line
 2 line
 
 apple
+
+Creating a new branch is quick.
