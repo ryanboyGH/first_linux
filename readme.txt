@@ -15,3 +15,4 @@ ryan
 
 --no-ff
 
+fix issue 101
